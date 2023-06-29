@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294eb5b-22b8-49f0-aa7a-af04f95fa364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1486.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1491.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1455.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1460.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1464.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1470.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1475.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,9 @@
       <option name="presentableId" value="Default" />
       <updated>1687823772716</updated>
       <workItem from="1687823774874" duration="4334000" />
-      <workItem from="1687910686373" duration="3244000" />
+      <workItem from="1687910686373" duration="9164000" />
+      <workItem from="1687997992161" duration="208000" />
+      <workItem from="1688037528102" duration="2495000" />
     </task>
     <servers />
   </component>

@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294eb5b-22b8-49f0-aa7a-af04f95fa364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1431.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1436.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1441.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1446.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1394.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1408.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1413.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1417.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1422.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +43,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +60,20 @@
       <workItem from="1687997992161" duration="208000" />
       <workItem from="1688037528102" duration="2677000" />
       <workItem from="1688108032163" duration="156000" />
-      <workItem from="1688344210369" duration="2636000" />
+      <workItem from="1688344210369" duration="3987000" />
+      <workItem from="1688355581807" duration="132000" />
+      <workItem from="1689298440578" duration="382000" />
+      <workItem from="1689298840936" duration="106000" />
+      <workItem from="1689298968290" duration="69000" />
+      <workItem from="1689299058269" duration="593000" />
+      <workItem from="1689299670525" duration="827000" />
+      <workItem from="1689300513836" duration="87000" />
+      <workItem from="1689300605898" duration="2631000" />
+      <workItem from="1689466861270" duration="20000" />
+      <workItem from="1689490137211" duration="1428000" />
+      <workItem from="1689491589897" duration="3000" />
+      <workItem from="1689499390373" duration="68000" />
+      <workItem from="1689553458781" duration="3571000" />
     </task>
     <servers />
   </component>
@@ -74,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

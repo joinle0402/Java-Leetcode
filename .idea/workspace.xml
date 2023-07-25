@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294eb5b-22b8-49f0-aa7a-af04f95fa364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1380.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1385.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1389.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1346.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1351.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1356.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1360.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1365.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1370.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1374.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +74,15 @@
       <workItem from="1689491589897" duration="3000" />
       <workItem from="1689499390373" duration="68000" />
       <workItem from="1689553458781" duration="4490000" />
-      <workItem from="1689639910718" duration="3251000" />
+      <workItem from="1689639910718" duration="3495000" />
+      <workItem from="1689644078189" duration="18000" />
+      <workItem from="1689725934732" duration="2639000" />
+      <workItem from="1689729229159" duration="38000" />
+      <workItem from="1689920213670" duration="615000" />
+      <workItem from="1689988211620" duration="1742000" />
+      <workItem from="1690157997231" duration="3421000" />
+      <workItem from="1690166133655" duration="14000" />
+      <workItem from="1690242690931" duration="2048000" />
     </task>
     <servers />
   </component>

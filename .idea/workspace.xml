@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8294eb5b-22b8-49f0-aa7a-af04f95fa364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1287.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1295.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1299.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1309.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1313.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1317.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1252.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1260.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1266.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1275.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/johnsmith/javacore/leetcode/Leetcode1281.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +96,13 @@
       <workItem from="1690853921238" duration="2685000" />
       <workItem from="1690940885148" duration="110000" />
       <workItem from="1691049152146" duration="961000" />
-      <workItem from="1691121669365" duration="1942000" />
+      <workItem from="1691121669365" duration="2069000" />
+      <workItem from="1691281407974" duration="2970000" />
+      <workItem from="1691563344552" duration="3723000" />
+      <workItem from="1691640949854" duration="3000" />
+      <workItem from="1691642882539" duration="99000" />
+      <workItem from="1692336865071" duration="1772000" />
+      <workItem from="1692578932295" duration="995000" />
     </task>
     <servers />
   </component>
